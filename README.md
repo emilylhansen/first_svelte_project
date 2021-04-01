@@ -1,7 +1,7 @@
 # Shift app
 
 A simple app that allows users to add shifts while filtering conflicting shifts.
-![vehicle filter](https://github.com/emilylhansen/vehicle_filter/blob/main/src/shift_image.png)
+![vehicle filter](https://github.com/emilylhansen/first_svelte_project/blob/master/src/shift_image.png)
 
 ## Get started
 
